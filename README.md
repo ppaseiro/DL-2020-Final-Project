@@ -5,7 +5,7 @@ Jorge Bermejo NIA: 206993
 
 Raúl Cabrera NIA: 205918
 
-##Instructions
+## Instructions
 
 To execute the notebook, you must load the FP folder inside the DeepLearning_2020 directory in your Google Drive.
 In addition, you should run the google colab file with GPU.
